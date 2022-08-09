@@ -1,4 +1,4 @@
-#Base image 
+
 FROM openjdk:8
 #make port available outside the container
 EXPOSE 8080 
